@@ -9,3 +9,5 @@ It’s the cloak which Harry Potter uses to become invisible. Since childhood, I
 1. You will first have to download the repository and then extract the contents into a folder.
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
 3. You can open the folder and run Invisible_Cloak.py on command prompt.
+
+**Note :** For implementation details, go through [Harry Potter’s Invisible Cloak : using Image Processing and Computer Vision](https://medium.com/@Devashi_Choudhary/harry-potters-invisible-cloak-using-image-processing-and-computer-vision-ef8d92e43e1a)
