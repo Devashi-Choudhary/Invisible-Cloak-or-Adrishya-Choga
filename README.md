@@ -11,3 +11,7 @@ It’s the cloak which Harry Potter uses to become invisible. Since childhood, I
 3. You can open the folder and run Invisible_Cloak.py on command prompt.
 
 **Note :** For implementation details, go through [Harry Potter’s Invisible Cloak : using Image Processing and Computer Vision](https://medium.com/@Devashi_Choudhary/harry-potters-invisible-cloak-using-image-processing-and-computer-vision-ef8d92e43e1a)
+
+# References
+
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
